@@ -11,7 +11,7 @@ title: Services
 * Neurocomputing
 * Knowledge-Based Systems
 * Neural Computing and Applications
-Journal of Network and Computer Applications
+* Journal of Network and Computer Applications
 
 
 ### Conference Reviewer
