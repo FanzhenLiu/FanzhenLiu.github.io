@@ -16,10 +16,6 @@ subtitle: Papers
 10. Zhengpeng Chen, **Fanzhen Liu**, Chao Gao, Xianghua Li, Zili Zhang, [An Enhanced Particle Swarm Optimization Based on Physarum Model for Community Detection](https://link.springer.com/chapter/10.1007/978-3-319-61833-3_11), Proceedings of *the 8th International Conference on Swarm Intelligence (ICSI'17)*, Fukuoka, Japan, 2017.
 11. Mingxin Liang, **Fanzhen Liu**, Chao Gao, Zili Zhang, [Robustness Analysis of the Complex Network](https://ieeexplore.ieee.org/document/8068147), Proceedings of *the 6th Data Driven Control and Learning Systems Conference (DDCLS'17)*, Chongqing, China, 2017.
 
----
-layout: page
-subtitle: Popular Repository
----
 
 * [Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) (**150+ stars and 50+ forks**)
   - A collection of papers, datasets, and implementations on deep learning for community detection (being continually updated) 
