@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Publications
-subtitle: Papers
 ---
 
+### Papers
 1. **Fanzhen Liu**, Zhao Li, Baokun Wang, Jia Wu, Jian Yang, Jiaming Huang, Yiqing Zhang, Weiqiang Wang, Shan Xue, Surya Nepal, Quan Z. Sheng, [eRiskCom: An E-commerce Risky Community Detection Platform](https://doi.org/10.1007/s00778-021-00723-z), *The VLDB Journal*, 2022.
 2. Xing Su, Shan Xue, **Fanzhen Liu**, Jia Wu, Jian Yang, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Di Jin, Quan Z. Sheng, Philip S. Yu, [A Comprehensive Survey on Community Detection with Deep Learning](https://ieeexplore.ieee.org/document/9732192), *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 1-21, 2022, early access. [[GitHub repository](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection)][[Supplementary Materials](https://ieeexplore.ieee.org/ielx7/5962385/6104215/9732192/supp1-3137396.pdf?arnumber=9732192)]
 3. **Fanzhen Liu**, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Jian Yang, Philip S. Yu, [Deep Learning for Community Detection: Progress, Challenges and Opportunities](https://www.ijcai.org/Proceedings/2020/0693.pdf), Proceedings of *the 29th International Joint Conference on Artificial Intelligence (IJCAI'20)*, Survey Track, Yokohama, Japan, 2021. [[GitHub repository](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection)]
@@ -16,6 +16,6 @@ subtitle: Papers
 10. Zhengpeng Chen, **Fanzhen Liu**, Chao Gao, Xianghua Li, Zili Zhang, [An Enhanced Particle Swarm Optimization Based on Physarum Model for Community Detection](https://link.springer.com/chapter/10.1007/978-3-319-61833-3_11), Proceedings of *the 8th International Conference on Swarm Intelligence (ICSI'17)*, Fukuoka, Japan, 2017.
 11. Mingxin Liang, **Fanzhen Liu**, Chao Gao, Zili Zhang, [Robustness Analysis of the Complex Network](https://ieeexplore.ieee.org/document/8068147), Proceedings of *the 6th Data Driven Control and Learning Systems Conference (DDCLS'17)*, Chongqing, China, 2017.
 
-
+### Popular Repository
 * [Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) (**150+ stars and 50+ forks**)
   - A collection of papers, datasets, and implementations on deep learning for community detection (being continually updated) 
