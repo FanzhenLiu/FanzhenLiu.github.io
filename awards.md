@@ -8,6 +8,6 @@ title: Awards
 * Higher Degree Research Rising Star (nominated), School of Computing, Macquarie University, 2022
 * Executive Dean's Commendation for Academic Excellence in Year 2 Master of Research, Macquarie University, 2019
 * [Student Travel Grant of IJCNN](https://drive.google.com/file/d/1AosAMwaC7bdFZpU0unK19EThj6v3yZ39/view?usp=sharing), 2019
-* Outstanding Student Leader of Chongqing, China in Academic Years of 2015-2017,  2018
+* Outstanding Student Leader of Chongqing, China in Academic Years of 2015-2017
 * First Prize of Excellent Undergraduate Scholarship (Top 3%), Southwest University, 2015-2017
 * Student Pioneer on Technology Innovation, Southwest University, 2017
