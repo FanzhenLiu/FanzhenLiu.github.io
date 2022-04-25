@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+subtitle: Papers
 ---
 
 1. **Fanzhen Liu**, Zhao Li, Baokun Wang, Jia Wu, Jian Yang, Jiaming Huang, Yiqing Zhang, Weiqiang Wang, Shan Xue, Surya Nepal, Quan Z. Sheng, [eRiskCom: An E-commerce Risky Community Detection Platform](https://doi.org/10.1007/s00778-021-00723-z), *The VLDB Journal*, 2022.
@@ -14,3 +15,10 @@ title: Publications
 9. **Fanzhen Liu**, Jiaqi Zhong, Chen Liu, Chao Gao, Xianghua Li, [A Novel Strategy of Initializing the Population Size for Ant Colony Optimization Algorithms in TSP](https://ieeexplore.ieee.org/document/8393166), Proceedings of *the 13th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD'17)*, Guilin, China, 2017.
 10. Zhengpeng Chen, **Fanzhen Liu**, Chao Gao, Xianghua Li, Zili Zhang, [An Enhanced Particle Swarm Optimization Based on Physarum Model for Community Detection](https://link.springer.com/chapter/10.1007/978-3-319-61833-3_11), Proceedings of *the 8th International Conference on Swarm Intelligence (ICSI'17)*, Fukuoka, Japan, 2017.
 11. Mingxin Liang, **Fanzhen Liu**, Chao Gao, Zili Zhang, [Robustness Analysis of the Complex Network](https://ieeexplore.ieee.org/document/8068147), Proceedings of *the 6th Data Driven Control and Learning Systems Conference (DDCLS'17)*, Chongqing, China, 2017.
+
+---
+subtitle: Popular Repository
+---
+
+* [Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) (**150+ stars and 50+ forks**)
+  - A collection of papers, datasets, and implementations on deep learning for community detection (being continually updated) 
