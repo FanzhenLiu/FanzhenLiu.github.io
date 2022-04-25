@@ -17,6 +17,7 @@ subtitle: Papers
 11. Mingxin Liang, **Fanzhen Liu**, Chao Gao, Zili Zhang, [Robustness Analysis of the Complex Network](https://ieeexplore.ieee.org/document/8068147), Proceedings of *the 6th Data Driven Control and Learning Systems Conference (DDCLS'17)*, Chongqing, China, 2017.
 
 ---
+layout: page
 subtitle: Popular Repository
 ---
 
