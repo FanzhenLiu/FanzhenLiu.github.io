@@ -14,13 +14,13 @@ author: Fanzhen Liu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+#   About Me: "aboutme"
   Publications: "publications"
   CV: "cv"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#   Resources:
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+#   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -64,7 +64,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: 0000-0002-4110-2893
-  google-scholar: ucAdRMQAAAAJ
+  google-scholar: "https://scholar.google.com.au/citations?user=ucAdRMQAAAAJ"
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 
