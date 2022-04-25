@@ -15,7 +15,9 @@ author: Fanzhen Liu
 
 navbar-links:
 #   About Me: "aboutme"
-  Publications: "publications"
+#   Publications: "publications"
+#   Academic Service: "academic services"
+#   Awards: "awards"
   CV: "cv"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
