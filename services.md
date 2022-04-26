@@ -3,6 +3,9 @@ layout: page
 title: Services
 ---
 
+### Program Committee
+IJCAI-ECAI 2022 Survey Track
+
 ### Journal Reviewer
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
 * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
@@ -12,7 +15,6 @@ title: Services
 * Knowledge-Based Systems
 * Neural Computing and Applications
 * Journal of Network and Computer Applications
-
 
 ### Conference Reviewer
 * IJCAI 2021-2022
