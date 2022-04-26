@@ -4,7 +4,7 @@ title: Services
 ---
 
 ### Program Committee
-IJCAI-ECAI 2022 Survey Track
+* IJCAI-ECAI 2022 Survey Track
 
 ### Journal Reviewer
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
