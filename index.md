@@ -4,6 +4,8 @@ title: About Me
 <!-- subtitle: This is where I will tell my friends way too much about me -->
 ---
 
+Greetings! Thanks for coming to my homepage.
+
 I am currently a second-year Ph.D. candidate in the [School of Computing](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), Macquarie University, Australia, supervised by [Dr. Jia Wu](http://web.science.mq.edu.au/~jiawu/) and [Prof. Jian Yang](http://web.science.mq.edu.au/~jian/). Previously, I obtained my M.Res. (Master of Research) from Macquarie University, Australia in 2020, and my B.E. from [Southwest University](https://en.wikipedia.org/wiki/Southwest_University), China in 2018.
 
 My research interests include Data Mining, Graph Mining, Anomaly Detection, and Social Network Analysis.
