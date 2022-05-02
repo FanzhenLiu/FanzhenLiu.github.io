@@ -12,7 +12,7 @@ My research interests include Data Mining, Graph Mining, Anomaly Detection, and 
 
 ### News
 * 04/2022: Our GitHub repository [Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) gets **150+ stars**!
-* 03/2022: Our survey **A Comprehensive Survey on Community Detection with Deep Learning** is published by _IEEE TNNLS_ (early access [here](https://www.researchgate.net/publication/359131983_A_Comprehensive_Survey_on_Community_Detection_With_Deep_Learning).
+* 03/2022: Our survey **A Comprehensive Survey on Community Detection with Deep Learning** is published by _IEEE TNNLS_ (early access [here](https://www.researchgate.net/publication/359131983_A_Comprehensive_Survey_on_Community_Detection_With_Deep_Learning)).
 * 02/2022: Our Paper has been awarded [Most Influential IJCAI Papers](https://www.paperdigest.org/2022/02/most-influential-ijcai-papers-2022-02/) (**Ranked 4th**) in 2020.
     - IJCAI-20: Deep Learning for Community Detection: Progress, Challenges and Opportunities
 * 01/2022: Our paper **eRiskCom: An E-commerce Risky Community Detection Platform** is published by _The VLDB Journal_ ([here](https://doi.org/10.1007/s00778-021-00723-z)).
