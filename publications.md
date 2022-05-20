@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+### Popular Repository
+* [Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) ![GitHub stars](https://img.shields.io/github/stars/FanzhenLiu/awesome-deep-community-detection?color=yellow&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/FanzhenLiu/awesome-deep-community-detection?color=blue&label=Forks) 
+  - The **most popular** repository on deep learning for community detection, collecting papers, datasets, and implementations
+
 ### Papers
 1. **Fanzhen Liu**, Zhao Li, Baokun Wang, Jia Wu, Jian Yang, Jiaming Huang, Yiqing Zhang, Weiqiang Wang, Shan Xue, Surya Nepal, Quan Z. Sheng, [eRiskCom: An E-commerce Risky Community Detection Platform](https://doi.org/10.1007/s00778-021-00723-z), *The VLDB Journal*, 2022.
 2. Xing Su, Shan Xue, **Fanzhen Liu**, Jia Wu, Jian Yang, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Di Jin, Quan Z. Sheng, Philip S. Yu, [A Comprehensive Survey on Community Detection with Deep Learning](https://ieeexplore.ieee.org/document/9732192), *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 1-21, 2022, early access. [[GitHub repository](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection)][[Supplementary Materials](https://ieeexplore.ieee.org/ielx7/5962385/6104215/9732192/supp1-3137396.pdf?arnumber=9732192)]
@@ -15,7 +19,3 @@ title: Publications
 9. **Fanzhen Liu**, Jiaqi Zhong, Chen Liu, Chao Gao, Xianghua Li, [A Novel Strategy of Initializing the Population Size for Ant Colony Optimization Algorithms in TSP](https://ieeexplore.ieee.org/document/8393166), Proceedings of *the 13th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD'17)*, Guilin, China, 2017.
 10. Zhengpeng Chen, **Fanzhen Liu**, Chao Gao, Xianghua Li, Zili Zhang, [An Enhanced Particle Swarm Optimization Based on Physarum Model for Community Detection](https://link.springer.com/chapter/10.1007/978-3-319-61833-3_11), Proceedings of *the 8th International Conference on Swarm Intelligence (ICSI'17)*, Fukuoka, Japan, 2017.
 11. Mingxin Liang, **Fanzhen Liu**, Chao Gao, Zili Zhang, [Robustness Analysis of the Complex Network](https://ieeexplore.ieee.org/document/8068147), Proceedings of *the 6th Data Driven Control and Learning Systems Conference (DDCLS'17)*, Chongqing, China, 2017.
-
-### Popular Repository
-* [Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) ![GitHub stars](https://img.shields.io/github/stars/FanzhenLiu/awesome-deep-community-detection?color=yellow&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/FanzhenLiu/awesome-deep-community-detection?color=blue&label=Forks) 
-  - A collection of papers, datasets, and implementations on deep learning for community detection (being continually updated) 
