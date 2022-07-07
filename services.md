@@ -9,6 +9,7 @@ title: Services
 ### Journal Reviewer
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
 * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
+* IEEE Transactions on Emerging Topics in Computing (IEEE TETC)
 * Neural Networks
 * World Wide Web
 * Neurocomputing
