@@ -18,7 +18,7 @@ navbar-links:
   Publications: "publications"
   Services: "services"
   Awards: "awards"
-  CV: "cv"
+#   CV: "cv"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
