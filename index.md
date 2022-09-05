@@ -12,6 +12,7 @@ My research interests include Data Mining, Graph Mining, Anomaly Detection, and 
 
 ### News
 * 09/2022: One paper on graph anomaly detection is accepted as a regular paper by ICDM 2022 (acceptance rate: 9.77%).
+* 08/2022: Invited to present a poster in **[VLDB 2022](https://vldb.org/2022/?program-schedule-posters)** for our paper **eRiskCom: An E-commerce Risky Community Detection Platform** ([Poster](https://vldb.delegateconnect.co/talks/eposter)).
 * 08/2022: Our GitHub repository [Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) gets **200 stars**!
 * 03/2022: Our survey **A Comprehensive Survey on Community Detection with Deep Learning** is published by _IEEE TNNLS_ (early access [here](https://www.researchgate.net/publication/359131983_A_Comprehensive_Survey_on_Community_Detection_With_Deep_Learning)).
 * 02/2022: Our paper has been awarded [Most Influential IJCAI Papers](https://www.paperdigest.org/2022/02/most-influential-ijcai-papers-2022-02/) (**Ranked 4th** among IJCAI-20 papers).
