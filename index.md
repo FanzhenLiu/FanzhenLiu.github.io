@@ -11,6 +11,7 @@ I am currently a second-year Ph.D. candidate in the [School of Computing](https:
 My research interests include Data Mining, Graph Mining, Anomaly Detection, and Social Network Analysis.
 
 ### News
+* 01/2023: Invited to serve as PC member for the IJCAI 2023 Survey Track.
 * 09/2022: One paper on graph anomaly detection with Xiaoxiao is accepted as a regular paper by [IEEE ICDM 2022](https://icdm22.cse.usf.edu/) (acceptance rate: 9.77%).
 * 08/2022: Invited to present a poster in [VLDB 2022](https://vldb.org/2022/?program-schedule-posters) for our paper **eRiskCom: An E-commerce Risky Community Detection Platform** ([Poster](https://vldb.delegateconnect.co/talks/eposter)).
 * 08/2022: Our GitHub repository [Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) gets **200 stars**!
