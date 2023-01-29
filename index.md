@@ -11,7 +11,7 @@ I am currently a second-year Ph.D. candidate in the [School of Computing](https:
 My research interests include Data Mining, Graph Mining, Anomaly Detection, and Social Network Analysis.
 
 ### News
-* 01/2023: Our paper has been awarded the [Most Influential IJCAI Papers](https://www.paperdigest.org/2023/01/most-influential-ijcai-papers-2023-01/) (**Ranked 1st** among IJCAI-20 papers).
+* 01/2023: Our paper is awarded the [Most Influential IJCAI Papers](https://www.paperdigest.org/2023/01/most-influential-ijcai-papers-2023-01/) (**Ranked 1st** among IJCAI-20 papers).
     - IJCAI-20: Deep Learning for Community Detection: Progress, Challenges and Opportunities
 * 01/2023: Invited to serve as PC member for the IJCAI 2023 Survey Track.
 * 09/2022: One paper on graph anomaly detection with Xiaoxiao is accepted as a regular paper by [IEEE ICDM 2022](https://icdm22.cse.usf.edu/) (acceptance rate: 9.77%).
