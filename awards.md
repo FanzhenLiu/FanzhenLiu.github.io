@@ -3,8 +3,8 @@ layout: page
 title: Awards
 ---
 
-* International Macquarie University Research Excellence Scholarship, Macquarie University, 2019-2024
-* [Most Influential IJCAI Papers (Ranked 4th among IJCAI-20 papers)](https://www.paperdigest.org/2022/02/most-influential-ijcai-papers-2022-02/), Deep Learning for Community Detection: Progress, Challenges and Opportunities, 02/2022
+* International Macquarie University Research Excellence Scholarship, Macquarie University, 2019 (M.Res.) & 2021-2024 (Ph.D.)
+* [Most Influential IJCAI Papers (Ranked 1st among IJCAI-20 papers)](https://www.paperdigest.org/2023/01/most-influential-ijcai-papers-2023-01/), Deep Learning for Community Detection: Progress, Challenges and Opportunities, 02/2023
 * Higher Degree Research Rising Star, School of Computing, Macquarie University, 2022
 * Executive Dean's Commendation for Academic Excellence in Year 2 Master of Research, Macquarie University, 2019
 * [Student Travel Grant of IJCNN](https://drive.google.com/file/d/1AosAMwaC7bdFZpU0unK19EThj6v3yZ39/view?usp=sharing), 2019
