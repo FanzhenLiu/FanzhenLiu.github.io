@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 ---
-<font size=3>* indicates equal contribution.</font>
 
 ### Popular Repository
 * [Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) ![GitHub stars](https://img.shields.io/github/stars/FanzhenLiu/awesome-deep-community-detection?color=yellow&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/FanzhenLiu/awesome-deep-community-detection?color=blue&label=Forks) 
@@ -23,6 +22,4 @@ on Data Mining (ICDM'22*), Orlando, USA, 2022. [[Code](https://github.com/Fanzhe
 11. Zhengpeng Chen, **Fanzhen Liu**, Chao Gao, Xianghua Li, Zili Zhang, [An Enhanced Particle Swarm Optimization Based on Physarum Model for Community Detection](https://link.springer.com/chapter/10.1007/978-3-319-61833-3_11), Proceedings of *the 8th International Conference on Swarm Intelligence (ICSI'17)*, Fukuoka, Japan, 2017.
 12. Mingxin Liang, **Fanzhen Liu**, Chao Gao, Zili Zhang, [Robustness Analysis of the Complex Network](https://ieeexplore.ieee.org/document/8068147), Proceedings of *the 6th Data Driven Control and Learning Systems Conference (DDCLS'17)*, Chongqing, China, 2017.
 
-   
-
-
+<font size=3>* indicates equal contribution.</font>   
