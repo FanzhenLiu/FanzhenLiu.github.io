@@ -10,6 +10,7 @@ title: Services
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
 * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
 * IEEE Transactions on Emerging Topics in Computing (IEEE TETC)
+* Knowledge and Information Systems
 * Neural Networks
 * World Wide Web
 * Neurocomputing
@@ -18,7 +19,7 @@ title: Services
 * Journal of Network and Computer Applications
 
 ### Conference Reviewer
-* IJCAI 2021-2022
-* ICDM 2019-2021
+* IJCAI 2021-2023
+* ICDM 2019-2022
 * CIKM 2019
 * IJCNN 2020-2022
