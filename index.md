@@ -21,5 +21,5 @@ My research interests include Data Mining, Graph Mining, Anomaly Detection, and 
 * 01/2022: Our paper **eRiskCom: An E-commerce Risky Community Detection Platform** is published by _The VLDB Journal_ ([here](https://doi.org/10.1007/s00778-021-00723-z)).
 * 11/2021: Invited to serve as PC member for the IJCAI-ECAI 2022 Survey Track.
 <p align="center">
-    <a href='https://clustrmaps.com/site/1bteu'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=WS-cvzf7Cc1Yv3yKR6OwWyV1wyony8uUWGOt92GW00E&co=1a84ce'/></a>
+    <a href='https://clustrmaps.com/site/1bteu'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=WS-cvzf7Cc1Yv3yKR6OwWyV1wyony8uUWGOt92GW00E&co=1a84ce'/></a>
 </p>
