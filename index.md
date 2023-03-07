@@ -20,6 +20,5 @@ My research interests include Data Mining, Graph Mining, Anomaly Detection, and 
 * 03/2022: Our survey **A Comprehensive Survey on Community Detection with Deep Learning** is published by _IEEE TNNLS_ (early access [here](https://www.researchgate.net/publication/359131983_A_Comprehensive_Survey_on_Community_Detection_With_Deep_Learning)).
 * 01/2022: Our paper **eRiskCom: An E-commerce Risky Community Detection Platform** is published by _The VLDB Journal_ ([here](https://doi.org/10.1007/s00778-021-00723-z)).
 * 11/2021: Invited to serve as PC member for the IJCAI-ECAI 2022 Survey Track.
-<html>
-        <script width="20%" type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=WS-cvzf7Cc1Yv3yKR6OwWyV1wyony8uUWGOt92GW00E"></script>
-</html>
+
+<a href="https://clustrmaps.com/site/1bteu"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=WS-cvzf7Cc1Yv3yKR6OwWyV1wyony8uUWGOt92GW00E&cl=ffffff" /></a>
