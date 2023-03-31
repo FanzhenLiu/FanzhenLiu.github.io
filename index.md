@@ -6,7 +6,7 @@ title: Fanzhen Liu
 
 Greetings! Thanks for coming to my homepage.
 
-I am currently a third-year Ph.D. candidate in the [School of Computing, Macquarie University](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), Australia, supervised by [Dr. Jia Wu](http://web.science.mq.edu.au/~jiawu/) and [Prof. Jian Yang](http://web.science.mq.edu.au/~jian/). Previously, I obtained my M.Res. (Master of Research) from Macquarie University, Australia.
+I am currently a third-year Ph.D. candidate in the [School of Computing, Macquarie University](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), Australia, supervised by [Dr. Jia Wu](http://web.science.mq.edu.au/~jiawu/) and [Prof. Jian Yang](https://researchers.mq.edu.au/en/persons/jian-yang). Previously, I obtained my M.Res. (Master of Research) from Macquarie University, Australia.
 
 My research interests include Data Mining, Graph Mining, Anomaly Detection, and Social Network Analysis.
 
