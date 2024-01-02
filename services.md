@@ -7,10 +7,11 @@ title: Services
 * IJCAI Survey Track, 2022-2023
 
 ### Journal Reviewer
-* ACM Transactions on Knowledge Discovery from Data (TKDD)
-* ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
+* IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
 * IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 * IEEE Transactions on Emerging Topics in Computing (IEEE TETC)
+* ACM Transactions on Knowledge Discovery from Data (TKDD)
+* ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
 * Knowledge and Information Systems
 * Neural Networks
 * World Wide Web Journal
