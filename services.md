@@ -4,7 +4,7 @@ title: Services
 ---
 
 ### Program Committee
-* IJCAI Survey Track, 2022-2023
+* IJCAI Survey Track, 2022-2024
 
 ### Journal Reviewer
 * IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
@@ -21,7 +21,7 @@ title: Services
 * Journal of Network and Computer Applications
 
 ### Conference Reviewer
-* IJCAI 2021-2023
+* IJCAI 2021-2024
 * ICDM 2019-2022
 * CIKM 2019
 * IJCNN 2020-2022
