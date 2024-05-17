@@ -11,7 +11,7 @@ I am currently a third-year Ph.D. student in the [School of Computing, Macquarie
 My research interests include graph mining, anomaly detection, explainable machine learning, and social network analysis.
 
 ### News
-* 05/2024: One paper on data-centric graph anomaly detection with Xiaoxiao is accepted by [KDD 2025](https://kdd2024.kdd.org/).
+* 05/2024: One paper on data-centric graph anomaly detection with Xiaoxiao is accepted by [KDD 2024](https://kdd2024.kdd.org/).
 * 02/2024: Invited to serve as PC member for the IJCAI 2024 Survey Track.
 * 01/2023: Our paper is awarded the [Most Influential IJCAI Papers](https://www.paperdigest.org/2023/01/most-influential-ijcai-papers-2023-01/) (**Ranked 1st** among IJCAI-20 papers).
     - IJCAI-20: Deep Learning for Community Detection: Progress, Challenges and Opportunities
