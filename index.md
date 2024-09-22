@@ -6,7 +6,7 @@ title: Fanzhen Liu
 
 Greetings! Thanks for coming to my homepage.
 
-I am currently a Postdoc Research Fellow in the [School of Computing, Macquarie University](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), Australia, where I obtained my Ph.D. and M.Res. (Master of Research), supervised by [Assoc. Prof. Jia Wu](http://web.science.mq.edu.au/~jiawu/) and [Prof. Jian Yang](https://researchers.mq.edu.au/en/persons/jian-yang). I am also a visitng scientist working with [CSIRO's Data61](https://www.csiro.au/en/about/people/business-units/Data61), Australia.
+I am currently a Postdoc Research Fellow in the [School of Computing, Macquarie University](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), Australia, where I obtained my Ph.D. in 2024 and M.Res. (Master of Research) in 2020, supervised by [Assoc. Prof. Jia Wu](http://web.science.mq.edu.au/~jiawu/) and [Prof. Jian Yang](https://researchers.mq.edu.au/en/persons/jian-yang). I am also a visiting scientist working with [CSIRO's Data61](https://www.csiro.au/en/about/people/business-units/Data61), Australia.
 
 My research interests include graph mining, anomaly detection, explainable machine learning, and social network analysis.
 
