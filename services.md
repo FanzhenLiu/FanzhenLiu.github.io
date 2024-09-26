@@ -5,6 +5,8 @@ title: Services
 
 ### Program Committee
 * IJCAI Survey Track, 2022-2024
+* TheWebConf (WWW), 2025
+* AAAI, 2025
 
 ### Journal Reviewer
 * IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
@@ -21,6 +23,9 @@ title: Services
 * Journal of Network and Computer Applications
 
 ### Conference Reviewer
+* TheWebConf (WWW), 2025
+* AAAI 2025
+* KDD 2024-2025
 * IJCAI 2021-2024
 * ICDM 2019-2022
 * CIKM 2019
