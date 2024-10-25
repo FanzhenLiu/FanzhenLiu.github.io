@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Fanzhen Liu
+title: Dr. Fanzhen Liu
 <!-- subtitle: This is where I will tell my friends way too much about me -->
 ---
 
