@@ -6,11 +6,13 @@ title: Dr. Fanzhen Liu
 
 Greetings! Thanks for coming to my homepage.
 
-I am currently a Postdoc Research Fellow in the [School of Computing, Macquarie University](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), Australia, where I obtained my Ph.D. in 2024 and M.Res. (Master of Research) in 2020, supervised by [Assoc. Prof. Jia Wu](http://web.science.mq.edu.au/~jiawu/) and [Prof. Jian Yang](https://researchers.mq.edu.au/en/persons/jian-yang). I am also a visiting scientist working with [CSIRO's Data61](https://www.csiro.au/en/about/people/business-units/Data61), Australia.
+I am currently a Postdoc Research Fellow in the [School of Computing, Macquarie University](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), Australia, where I obtained my Ph.D. in 2024 and M.Res. in 2020, supervised by [Assoc. Prof. Jia Wu](http://web.science.mq.edu.au/~jiawu/) and [Prof. Jian Yang](https://researchers.mq.edu.au/en/persons/jian-yang). I am also a visiting scientist working with [CSIRO's Data61](https://www.csiro.au/en/about/people/business-units/Data61), Australia.
 
-My research interests include graph mining, anomaly detection, explainable machine learning, and social network analysis.
+My research interests include graph mining, anomaly detection, trustworthy AI/ML, and social network analysis.
 
 ### News
+* 10/2024: Invited to serve as PC member of the ACM WebConf 2025.
+* 09/2024: Invited to serve as PC member of the AAAI 2025 Demo Track.
 * 05/2024: One paper on data-centric graph anomaly detection with Xiaoxiao is accepted by [KDD 2024](https://kdd2024.kdd.org/).
 * 02/2024: Invited to serve as PC member for the IJCAI 2024 Survey Track.
 * 01/2023: Our paper is awarded the [Most Influential IJCAI Papers](https://www.paperdigest.org/2023/01/most-influential-ijcai-papers-2023-01/) (**Ranked 1st** among IJCAI-20 papers).
