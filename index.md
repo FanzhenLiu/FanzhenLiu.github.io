@@ -11,9 +11,10 @@ I am currently a Postdoc Research Fellow in the [School of Computing, Macquarie 
 My research interests include graph mining, anomaly detection, trustworthy AI/ML, and social network analysis.
 
 ### News
+* 10/2024: One paper on residual analysis for graph anomaly detection with Xiaoxiao is accepted as a regular paper by [IEEE Trans. Knowl. Data Eng.](https://ieeexplore-qa.ieee.org/xpl/RecentIssue.jsp?punumber=69) (TKDE) following a single round of revision.                                                                                                                                                
 * 10/2024: Awarded the Vice-Chancellor’s Commendation for Academic Excellence, Macquarie University.
-* 10/2024: Invited to serve as PC member of the ACM WebConf 2025.
-* 09/2024: Invited to serve as PC member of the AAAI 2025 Demo Track.
+* 10/2024: Invited to serve as PC member of the [ACM WebConf 2025](https://www2025.thewebconf.org/) Industry Track.
+* 09/2024: Invited to serve as PC member of the [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) Demo Track.
 * 05/2024: One paper on data-centric graph anomaly detection with Xiaoxiao is accepted by [KDD 2024](https://kdd2024.kdd.org/).
 * 02/2024: Invited to serve as PC member for the IJCAI 2024 Survey Track.
 * 01/2023: Our paper is awarded the [Most Influential IJCAI Papers](https://www.paperdigest.org/2023/01/most-influential-ijcai-papers-2023-01/) (**Ranked 1st** among IJCAI-20 papers).
