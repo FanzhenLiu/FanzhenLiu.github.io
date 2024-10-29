@@ -8,7 +8,7 @@ title: Publications
   - The **most popular** repository on deep learning for community detection, collecting papers, datasets, and implementations
 
 ### Papers
-1. Xiaoxiao Ma\*, **FanzhenLiu**\*, Jia Wu, Jian Yang, Shan Xue, Quan Z. Sheng, Rethinking Unsupervised Graph Anomaly Detection with Deep Learning: Residuals and Objectives, *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, Accpeted, 2024.
+1. Xiaoxiao Ma\*, **FanzhenLiu**\*, Jia Wu, Jian Yang, Shan Xue, Quan Z. Sheng, Rethinking Unsupervised Graph Anomaly Detection with Deep Learning: Residuals and Objectives, *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, Accepted, 2024.
 2. Xiaoxiao Ma, Ruikun Li, **Fanzhen Liu**, Kaize Ding, Jian Yang, Jia Wu, [Graph Anomaly Detection with Few Labels: A Data-Centric Approach](https://dl.acm.org/doi/10.1145/3637528.3671929), Proceedings of *the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'24)*, Barcelona, Spain, 2024.
 3. **Fanzhen Liu**\*, Xiaoxiao Ma\*, Jia Wu, Jian Yang, Shan Xue, Amin Beheshti, Chuan Zhou, Hao Peng, Quan Z. Sheng, Charu C. Aggarwal, [DAGAD: Data Augmentation for Graph Anomaly Detection](https://arxiv.org/pdf/2210.09766.pdf), regular paper, Proceedings of *the 22nd IEEE International Conference on Data Mining (ICDM'22)*, Orlando, USA, 2022. [[Code](https://github.com/FanzhenLiu/DAGAD)]
 4. **Fanzhen Liu**, Zhao Li, Baokun Wang, Jia Wu, Jian Yang, Jiaming Huang, Yiqing Zhang, Weiqiang Wang, Shan Xue, Surya Nepal, Quan Z. Sheng, [eRiskCom: An E-commerce Risky Community Detection Platform](https://doi.org/10.1007/s00778-021-00723-z), *The VLDB Journal*, 31:1085-1101, 2022.
