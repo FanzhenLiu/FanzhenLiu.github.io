@@ -27,7 +27,7 @@ title: Services
 ### Conference Reviewer
 * TheWebConf (WWW), 2025
 * AAAI, 2025
-* KDD, 2024-2025
+* KDD, 2024-2025, Excellent Reviewer (Top 10%~20%) in 2025
 * IJCAI, 2021-2024
 * ICDM, 2019-2022
 * CIKM, 2019
