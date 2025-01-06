@@ -11,6 +11,7 @@ I am currently a Postdoc Research Fellow in the [School of Computing, Macquarie 
 My research interests include graph mining, anomaly detection, trustworthy AI/ML, and social network analysis.
 
 ### News
+* 12/2024: Recognized as Excellent Reviewer in the August Cycle of [KDD 2025](https://kdd2025.kdd.org/).
 * 12/2024: Invited to serve as Area Chair of the [IJCNN 2025](https://2025.ijcnn.org/) and PC member of the [IJCAI 2025](https://2025.ijcai.org/) Survey Track.
 * 10/2024: One paper on residual analysis for graph anomaly detection is accepted as a regular paper by [IEEE Trans. Knowl. Data Eng.](https://ieeexplore-qa.ieee.org/xpl/RecentIssue.jsp?punumber=69) (TKDE) following a single round of revision.                     
 * 10/2024: Awarded the Vice-Chancellor’s Commendation for Academic Excellence, Macquarie University.
