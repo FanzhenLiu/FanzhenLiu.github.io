@@ -3,6 +3,7 @@ layout: page
 title: Awards
 ---
 
+* Excellent Reviewer in the August Cycle of KDD 2025 (Top 10%~20%), 12/2024
 * Vice-Chancellor’s Commendation for Academic Excellence, Macquarie University, 2024
 * International Macquarie University Research Excellence Scholarship, Macquarie University, 2019 (M.Res.) & 2021-2024 (Ph.D.)
 * [Most Influential IJCAI Papers (Ranked 1st among IJCAI-20 papers)](https://www.paperdigest.org/2023/01/most-influential-ijcai-papers-2023-01/), Deep Learning for Community Detection: Progress, Challenges and Opportunities, 02/2023
