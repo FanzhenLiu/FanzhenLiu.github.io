@@ -25,10 +25,11 @@ title: Services
 * Journal of Network and Computer Applications
 
 ### Conference Reviewer
+* ICML 2025
 * TheWebConf (WWW), 2025
 * AAAI, 2025
 * KDD, 2024-2025, Excellent Reviewer (Top 10%~20%) in 2025
-* IJCAI, 2021-2024
+* IJCAI, 2021-2025
 * ICDM, 2019-2022
 * CIKM, 2019
 * IJCNN, 2020-2022
