@@ -6,8 +6,8 @@ title: Services
 * IJCNN 2025
 
 ### Program Committee
-* TheWebConf (WWW) Industry Track & Demo Track, 2025
-* AAAI 2025-2026 
+* TheWebConf (WWW) Industry Track & Demo Track, 2025; Research Track, 2026
+* AAAI, 2025-2026 
 * IJCAI Survey Track, 2022-2025
 
 ### Journal Reviewer
@@ -27,7 +27,7 @@ title: Services
 
 ### Conference Reviewer
 * ICML 2025
-* TheWebConf (WWW), 2025
+* TheWebConf (WWW), 2025-2026
 * AAAI, 2025-2026
 * KDD, 2024-2025, Excellent Reviewer (Top 10%~20%) in 2025
 * IJCAI, 2021-2025
