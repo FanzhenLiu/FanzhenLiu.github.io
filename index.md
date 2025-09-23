@@ -12,7 +12,7 @@ My research interests include graph mining, anomaly detection, trustworthy AI/ML
 
 ### News
 * 09/2025: Invited to serve as PC member of the [ACM WebConf 2026](https://www2026.thewebconf.org/) Research Track. 
-* 08/2025: Our surcey paper on adversarial attacks against automated Fact-Checking is accepted to the Main Conference of [EMNLP 2025](https://2025.emnlp.org/) (acceptance rate: 22.16%).
+* 08/2025: Our survey paper on adversarial attacks against automated Fact-Checking is accepted to the Main Conference of [EMNLP 2025](https://2025.emnlp.org/) (acceptance rate: 22.16%).
 * 08/2025: Invited to serve as PC member of the [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 * 12/2024: Recognized as Excellent Reviewer in the August Cycle of [KDD 2025](https://kdd2025.kdd.org/).
 * 12/2024: Invited to serve as Area Chair of the [IJCNN 2025](https://2025.ijcnn.org/) and PC member of the [IJCAI 2025](https://2025.ijcai.org/) Survey Track.
