@@ -14,9 +14,10 @@ title: Services
 * IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
 * IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 * IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
+* IEEE Transactions on Information Forensics and Security (IEEE TIFS)
 * IEEE Transactions on Emerging Topics in Computing (IEEE TETC)
-* ACM Transactions on Knowledge Discovery from Data (TKDD)
-* ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
+* ACM Transactions on Knowledge Discovery from Data (ACM TKDD)
+* ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM)
 * Knowledge and Information Systems
 * Neural Networks
 * World Wide Web Journal
