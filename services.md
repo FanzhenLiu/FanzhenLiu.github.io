@@ -3,12 +3,12 @@ layout: page
 title: Services
 ---
 ### Area Chair
-* IJCNN 2025
+* IJCNN 2025-2026
 
 ### Program Committee
 * TheWebConf (WWW) Industry Track & Demo Track, 2025; Research Track, 2026
 * AAAI, 2025-2026 
-* IJCAI Survey Track, 2022-2025
+* IJCAI Survey Track, 2022-2026
 
 ### Journal Reviewer
 * IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
@@ -31,7 +31,7 @@ title: Services
 * TheWebConf (WWW), 2025-2026
 * AAAI, 2025-2026
 * KDD, 2024-2025, Excellent Reviewer (Top 10%~20%) in 2025
-* IJCAI, 2021-2025
+* IJCAI, 2021-2026
 * ICDM, 2019-2022
 * CIKM, 2019
 * IJCNN, 2020-2022
