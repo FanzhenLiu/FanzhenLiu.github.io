@@ -6,11 +6,12 @@ title: Dr. Fanzhen Liu
 
 Greetings! Thanks for coming to my homepage.
 
-I am currently a Postdoc Research Fellow in the [School of Computing, Macquarie University](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), Australia, where I obtained my Ph.D. in 2024 and M.Res. in 2020, supervised by [Assoc. Prof. Jia Wu](http://web.science.mq.edu.au/~jiawu/) and [Prof. Jian Yang](https://researchers.mq.edu.au/en/persons/jian-yang). Between March 2024 and September 2025, I was a visiting scientist at [CSIRO's Data61](https://www.csiro.au/en/about/people/business-units/Data61), Australia, working with [Dr Surya Nepal](https://people.csiro.au/N/S/Surya-Nepal) and [Dr Cecile Paris](https://people.csiro.au/P/C/Cecile-Paris.aspx).
+I am currently a Postdoc Research Fellow in the [School of Computing, Macquarie University](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), Australia, working with [Prof. Jia Wu](https://scholar.google.com/citations?user=kbnFw94AAAAJ) and [Prof. Jian Yang](https://scholar.google.com/citations?user=r5jS8eYAAAAJ), and [Prof. Michael Sheng](https://scholar.google.com/citations?user=lwy2C5YAAAAJ). I obtained my Ph.D. (2024) and M.Res. (2020) from Macquarie University. Between March 2024 and September 2025, I was a visiting scientist at [CSIRO's Data61](https://www.csiro.au/en/about/people/business-units/Data61), Australia, working with [Dr Surya Nepal](https://people.csiro.au/N/S/Surya-Nepal) and [Dr Cecile Paris](https://people.csiro.au/P/C/Cecile-Paris.aspx).
 
-My research interests include graph mining, anomaly detection, trustworthy AI/ML, and social network analysis.
+My research interests include graph mining, anomaly detection, trustworthy/explainable/agentic AI, and social computing.
 
 ### News
+* 05/2026: One paper on LLM-Enhanced multimodal graph-based traffic forecasting is accepted as a regular paper by [ICWS 2026](https://services.conferences.computer.org/2026/icws/) (acceptance rate: 19%).
 * 01/2026: Invited to serve as Area Chair of the [IJCNN 2026](https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/).
 * 09/2025: Invited to serve as PC member of the [ACM WebConf 2026](https://www2026.thewebconf.org/) Research Track. 
 * 08/2025: Our survey paper on adversarial attacks against automated Fact-Checking is accepted to the Main Conference of [EMNLP 2025](https://2025.emnlp.org/) (acceptance rate: 22.16%).
