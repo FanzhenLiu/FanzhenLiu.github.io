@@ -27,7 +27,8 @@ title: Services
 * Journal of Network and Computer Applications
 
 ### Conference Reviewer
-* ICML 2025
+* NeurIPS, 2024/2026
+* ICML, 2025
 * TheWebConf (WWW), 2025-2026
 * AAAI, 2025-2026
 * KDD, 2024-2025, Excellent Reviewer (Top 10%~20%) in 2025
