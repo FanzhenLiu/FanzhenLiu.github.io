@@ -11,6 +11,7 @@ I am currently a Postdoc Research Fellow in the [School of Computing, Macquarie 
 My research interests include graph mining, anomaly detection, trustworthy/explainable/agentic AI, and social computing.
 
 ### News
+* 06/2026: Invited to serve as Area Chair of the [IJCNN 2027](https://ijcnn.org/2027).
 * 05/2026: One paper on LLM-Enhanced multimodal graph-based traffic forecasting is accepted as a regular paper by [ICWS 2026](https://services.conferences.computer.org/2026/icws/) (acceptance rate: 19%).
 * 01/2026: Invited to serve as Area Chair of the [IJCNN 2026](https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/).
 * 09/2025: Invited to serve as PC member of the [ACM WebConf 2026](https://www2026.thewebconf.org/) Research Track. 
