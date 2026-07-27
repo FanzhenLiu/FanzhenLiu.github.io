@@ -3,11 +3,11 @@ layout: page
 title: Services
 ---
 ### Area Chair
-* IJCNN 2025-2026
+* IJCNN 2025-2027
 
 ### Program Committee
 * TheWebConf (WWW) Industry Track & Demo Track, 2025; Research Track, 2026
-* AAAI, 2025-2026 
+* AAAI, 2025-2027 
 * IJCAI Survey Track, 2022-2026
 
 ### Journal Reviewer
@@ -30,7 +30,7 @@ title: Services
 * NeurIPS, 2024/2026
 * ICML, 2025
 * TheWebConf (WWW), 2025-2026
-* AAAI, 2025-2026
+* AAAI, 2025-2027
 * KDD, 2024-2025, Excellent Reviewer (Top 10%~20%) in 2025
 * IJCAI, 2021-2026
 * ICDM, 2019-2022
